@@ -20,11 +20,15 @@
 ### IsSubstring.java 
 
 ## Functions
-### Factorial.java (Overflow was covered here)
-### BinomialCoefficient.java 
-### StudentUnion.java 
+### IsSubstring1.java 
 ### ValidPassword1.java
 ### ValidPassword2.java
 ### Primes.java
+
+## Overflow & Error control
+### Factorial.java
+### BinomialCoefficient.java 
+### StudentUnion.java 
+
+## Overloading
 ### Substring.java
-### CalcPi.java
