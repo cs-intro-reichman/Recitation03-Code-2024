@@ -1,4 +1,4 @@
-// Question 4, Expansion 3
+// Question 3, Expansion 3
 public class BinomialCoefficient {
     public static void main(String[] args) {
         long n = Integer.parseInt(args[0]); //GOOD NAME DUE TO FORMULA

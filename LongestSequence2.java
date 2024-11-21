@@ -1,9 +1,9 @@
-// Question 1, another version
+// Question 0, another version
 public class LongestSequence2 {
     public static void main (String[] args) {
         String text = args[0];
         // initialize the longest char to some arbitrary value.
-        char longest = ' ';
+        char longest = text.charAt(0);
         int maxLength = 1;
         int curLength = 1;
         // loop over the text, if the current letter is equal to the previous letter, increase curLength, save the

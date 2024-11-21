@@ -1,4 +1,4 @@
-// Question 2, Expansion 3
+// Question 1, Expansion 3
 public class ValidPassword2 {
     public static void main (String[] args) {
         String password = args[0];	

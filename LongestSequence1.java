@@ -1,9 +1,9 @@
-// Question 1 
+// Question 0 
 public class LongestSequence1 {
     public static void main (String[] args) {
         String text = args[0];
         // initialize the longest char to some arbitrary value.
-        char longest = ' ';
+        char longest = text.charAt(0);
         char curChar = text.charAt(0);
         int maxLength = 0;
         int curLength = 0;

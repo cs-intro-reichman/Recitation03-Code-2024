@@ -20,7 +20,7 @@ public class Factorial {
         System.out.println(factorial(-1));
     }
     
-    // Question 4
+    // Question 3
     public static int badFactorial1(int n) {
         int ans = 1;
         for (int i = 1; i <= n; i++) {
@@ -29,7 +29,7 @@ public class Factorial {
         return ans;
     }
     
-    // Question 4, Expansion 1
+    // Question 3, Expansion 1
     public static int badFactorial2(int n) {
         if (n < 0){
             return -1;
@@ -41,7 +41,7 @@ public class Factorial {
         return ans;
     }
     
-    // Question 4, Expansion 2
+    // Question 3, Expansion 2
     public static long factorial(long n) {
         if (n < 0){
             return -1;

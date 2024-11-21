@@ -1,8 +1,8 @@
-// Question 2, Expansion 1
+// Question 1, Expansion 1
 public class IsSubstring1 {
     public static void main(String[] args){
-        String a = args[0];
-        String b = args[1];	
+        String input1 = args[0];
+        String input2 = args[1];	
     }
     
     

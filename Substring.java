@@ -1,4 +1,4 @@
-// Question 5  
+// Question 4
 public class Substring {
     public static void main(String[] args) {
         // to run the first : java Substring A "{your string here}" {valid selected index here} 
